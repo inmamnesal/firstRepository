@@ -16,6 +16,8 @@ public class CustomActuatorEndpoint {
         Map<String, String> map = new HashMap<>();
         map.put("Key", "Value");
         map.put("Username", username);
+        map.put("Surname", "Sidorov");
+
         return map;
     }
 }
