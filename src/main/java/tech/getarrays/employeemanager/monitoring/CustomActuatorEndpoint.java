@@ -18,6 +18,7 @@ public class CustomActuatorEndpoint {
         map.put("Username", username);
         map.put("Surname", "Sidorov");
         map.put("email", "sidorov@mail.com");
+        map.put("dob", "01.02.1989");
 
         return map;
     }
