@@ -4,6 +4,7 @@ public class GitClass {
     public GitClass(String method, Integer num) {
         this.method = method;
         this.num = num;
+        String bug = "master"; //from branch master
     }
 
     public String method;
