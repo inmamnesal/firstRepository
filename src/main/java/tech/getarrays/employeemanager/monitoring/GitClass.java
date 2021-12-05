@@ -13,4 +13,7 @@ public class GitClass {
 
     //unit2
     public String str; //line from user2
+
+    //some change
+    String star = new String("some changes");
 }
