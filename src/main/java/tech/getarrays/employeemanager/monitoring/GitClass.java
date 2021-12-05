@@ -10,4 +10,6 @@ public class GitClass {
     public String method;
     public Integer num;
     public Boolean bul; //line from usr1
+
+    public Exception exception; //another line from user 1
 }
