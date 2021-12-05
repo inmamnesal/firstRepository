@@ -10,5 +10,6 @@ public class GitClass {
     public Integer num;
     public Boolean bul; //line from usr1
 
-    public Exception exception; //another line from user 1
+    //unit2
+    public String str; //line from user2
 }
