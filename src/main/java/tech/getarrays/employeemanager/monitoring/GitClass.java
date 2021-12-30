@@ -16,4 +16,7 @@ public class GitClass {
 
     //some change
     String star = new String("some changes");
+
+    //another change
+    String newString = "new foobar";
 }
