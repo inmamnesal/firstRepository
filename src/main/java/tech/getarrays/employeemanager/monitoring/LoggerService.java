@@ -5,7 +5,7 @@ import org.springframework.boot.actuate.health.HealthIndicator;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
-
+//Critical bug fixed
 @Component
 public class LoggerService implements HealthIndicator {
     private final String LOGGER_SERVICE = "Database Service";
